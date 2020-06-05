@@ -1,0 +1,7 @@
+*~
+*-
+*.swp
+*.save
+.DS_Store
+
+elasticsearch-1.3.9.tar.gz
